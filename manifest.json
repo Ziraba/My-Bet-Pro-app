@@ -1,0 +1,9 @@
+{
+  "name": "My-BET-PRO",
+  "short_name": "My-BET-PRO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a8a2e",
+  "theme_color": "#1a8a2e",
+  "description": "Football prediction app"
+}
