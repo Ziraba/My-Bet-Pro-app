@@ -10,8 +10,11 @@
   "theme_color": "#0a7a2f",
   "description": "Football predictions app",
   "lang": "en",
-  "dir": "ltr",
-  "categories": ["sports", "entertainment"],
+  "dir": "auto",
+  "categories": [
+    "sports",
+    "entertainment"
+  ],
   "icons": [
     {
       "src": "icon.svg",
@@ -33,5 +36,6 @@
       "type": "image/svg+xml",
       "form_factor": "wide"
     }
-  ]
-}
+  ],
+  "prefer_related_applications": true
+    }
